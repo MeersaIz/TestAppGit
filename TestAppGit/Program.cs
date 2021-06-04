@@ -6,7 +6,7 @@ namespace TestAppGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo, hier ist das Git Testprojekt");
+            Console.WriteLine("Hallo, hier ist das editierte Git Testprojekt");
         }
     }
 }
